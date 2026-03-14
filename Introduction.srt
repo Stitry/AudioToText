@@ -1,0 +1,675 @@
+﻿1
+00:00:03,380 --> 00:00:04,220
+Bonjour à toutes et à tous !
+
+2
+00:00:04,220 --> 00:00:08,360
+On se retrouve pour une nouvelle série de vidéos consacrées
+
+3
+00:00:08,360 --> 00:00:12,180
+aux cours Auteurs et théories 4 et à la sociologie américaine.
+
+4
+00:00:12,660 --> 00:00:17,640
+Nous arrivons à la fin de cette description
+
+5
+00:00:18,180 --> 00:00:23,120
+du panorama de la sociologie américaine
+proposée à partir de l'article de Burawoy
+
+6
+00:00:23,120 --> 00:00:27,260
+et après avoir évoqué la sociologie académique, 
+l'expertise sociologique
+
+7
+00:00:27,500 --> 00:00:31,920
+et la sociologie critique, 
+nous allons enfin voir la dernière forme de sociologie
+
+8
+00:00:31,920 --> 00:00:35,480
+qu'il décrit, c'est-à-dire la sociologie publique.
+
+9
+00:00:36,220 --> 00:00:42,260
+En fait, un travail sociologique ou 
+une œuvre peuvent être considérés
+
+10
+00:00:42,600 --> 00:00:47,360
+comme partie intégrante de 
+la thèse de la catégorie sociologie publique.
+
+11
+00:00:47,640 --> 00:00:51,780
+Dès l'instant où ils respectent deux critères.
+
+12
+00:00:52,200 --> 00:00:55,700
+D'abord, le premier critère, c'est bien entendu celui de mobiliser un
+
+13
+00:00:55,700 --> 00:01:01,820
+savoir réflexif qui permet de questionner 
+à la fois le programme de la discipline
+
+14
+00:01:02,040 --> 00:01:05,000
+et également l'orientation, entre guillemets, de la société.
+
+15
+00:01:05,000 --> 00:01:06,080
+C'est la première chose.
+
+16
+00:01:06,080 --> 00:01:09,360
+En fait, on est dans de la sociologie publique avec ce savoir réflexif.
+
+17
+00:01:09,740 --> 00:01:14,420
+Ensuite, deuxième critère, c'est le fait que finalement,
+
+18
+00:01:14,420 --> 00:01:18,060
+souvenez-vous, la sociologie critique, elle a ce savoir réflexif
+
+19
+00:01:18,180 --> 00:01:21,680
+tant sur la société que sur la discipline sociologique.
+
+20
+00:01:22,020 --> 00:01:24,500
+Donc, la sociologie critique, elle a cet aspect-là.
+
+21
+00:01:24,500 --> 00:01:29,940
+Mais la sociologie publique, elle, elle est tournée vers les publics
+
+22
+00:01:29,940 --> 00:01:34,220
+alors même que la sociologie critique, elle, 
+elle se focalise sur les sociologues
+
+23
+00:01:34,440 --> 00:01:38,420
+en tant que tel et éventuellement sur les autres chercheurs
+
+24
+00:01:38,420 --> 00:01:39,840
+qui peuvent se réclamer de la critique.
+
+25
+00:01:39,840 --> 00:01:42,120
+On en a parlé lors des séances précédentes,
+
+26
+00:01:42,120 --> 00:01:45,680
+mais là, en l'occurrence, dans la sociologie publique,
+
+27
+00:01:45,680 --> 00:01:52,500
+le savoir se destine à un public qui est extra académique, 
+extra universitaire.
+
+28
+00:01:52,760 --> 00:01:57,080
+Pour Burawoy, il existerait deux types de sociologie publique.
+
+29
+00:01:57,900 --> 00:02:00,900
+Il y aurait d'abord, la sociologie publique classique.
+
+30
+00:02:00,960 --> 00:02:02,940
+La sociologie publique classique, c'est quoi ?
+
+31
+00:02:02,940 --> 00:02:06,500
+C'est lorsque le ou la sociologue va toucher
+
+32
+00:02:06,500 --> 00:02:10,280
+un public extra académique 
+et provoquer des débats dans la société.
+
+33
+00:02:11,160 --> 00:02:14,580
+Donc, ce débat peut faire suite à un ouvrage qui est publié,
+
+34
+00:02:14,820 --> 00:02:19,680
+peut faire suite à une prise de position dans le débat
+public de la part du ou de la sociologue.
+
+35
+00:02:19,980 --> 00:02:24,120
+Pensez aux grandes tribunes qui sont publiées dans la presse, etc.
+
+36
+00:02:24,300 --> 00:02:32,220
+Donc là, on a une première forme de sociologie publique pour Burawoy.
+C'est la sociologie publique classique.
+
+37
+00:02:32,400 --> 00:02:35,780
+En gros, on a un savoir ou, en tout cas,
+
+38
+00:02:35,780 --> 00:02:39,420
+une œuvre sociologique qui va être amenée,
+qui va être appropriée par le public,
+
+39
+00:02:39,420 --> 00:02:44,000
+qui va être discutée en dehors finalement du champ académique,
+
+40
+00:02:44,040 --> 00:02:52,260
+ou alors une tribune qui plus explicitement, 
+cherche à atteindre l'espace public.
+
+41
+00:02:52,320 --> 00:02:54,140
+Donc ça, c'est le premier type.
+
+42
+00:02:54,140 --> 00:02:58,740
+Deuxième type de sociologie publique, 
+c'est la sociologie publique organique.
+
+43
+00:02:58,740 --> 00:03:01,720
+C'est comme ça que la nomme Burawoy.
+
+44
+00:03:01,720 --> 00:03:08,640
+Et là, le lien entre le ou la sociologue 
+et son public est beaucoup plus étroit.
+
+45
+00:03:08,640 --> 00:03:11,460
+C'est-à-dire qu'on peut même parler d'interdépendance
+
+46
+00:03:11,460 --> 00:03:14,700
+puisque la recherche est souvent coconstruite
+
+47
+00:03:14,700 --> 00:03:18,660
+entre le sociologue, la sociologue et son public.
+
+48
+00:03:19,460 --> 00:03:23,240
+Donc, je vous remets de manière un petit peu habituelle
+
+49
+00:03:23,440 --> 00:03:31,520
+le tableau qui est issu de l'article de Burawoy qui, là cette fois-ci, 
+concerne la sociologie publique,
+
+50
+00:03:31,760 --> 00:03:36,120
+et en tout cas, un des éléments centraux que 
+vous devez absolument retenir,
+
+51
+00:03:36,360 --> 00:03:42,140
+c'est vraiment la rencontre entre les chercheurs et leur public.
+
+52
+00:03:42,260 --> 00:03:48,860
+Il faut entendre le terme public dans 
+son sens plutôt associé à John Dewey,
+
+53
+00:03:48,860 --> 00:03:51,860
+voire à Charles Wright Mills
+
+54
+00:03:52,080 --> 00:03:58,540
+puisqu’à partir du moment où 
+il y a rencontre entre le ou la sociologue et le public.
+
+55
+00:03:58,540 --> 00:04:05,520
+Eh bien, fondamentalement, cette rencontre permettrait 
+aux citoyens de ne plus simplement être
+
+56
+00:04:05,520 --> 00:04:09,360
+les membres passifs d'une société 
+dont la conduite leur échapperait.
+
+57
+00:04:09,900 --> 00:04:14,240
+Donc là, il y a une espèce d'émancipation du public.
+
+58
+00:04:14,520 --> 00:04:21,140
+On a vraiment des membres actifs à travers 
+le travail de co-construction entre le ou la sociologue et son public.
+
+59
+00:04:21,300 --> 00:04:25,040
+On a vraiment l'idée qu'on va construire des citoyens actifs
+
+60
+00:04:25,040 --> 00:04:28,220
+qui vont peser sur l'orientation à donner à la société.
+
+61
+00:04:29,320 --> 00:04:34,220
+Ainsi, tous les éléments du tableau 
+que vous aviez à l'écran tout de suite
+
+62
+00:04:34,280 --> 00:04:40,540
+qui reviennent sur les différents critères, 
+les différentes caractéristiques de la sociologie publique 
+
+63
+00:04:40,540 --> 00:04:46,040
+sont systématiquement reliées à la dimension 
+du lien entretenu avec le public.
+
+64
+00:04:46,040 --> 00:04:49,380
+La manière de produire du vrai, par exemple, 
+eh bien, elle doit être liée
+
+65
+00:04:49,380 --> 00:04:54,980
+à un consensus avec les acteurs auprès 
+desquels les chercheurs se sont engagés.
+
+66
+00:04:54,980 --> 00:04:57,520
+L'évaluation, elle est assurée par le public.
+
+67
+00:04:57,520 --> 00:05:01,440
+La légitimité, elle est liée à la pertinence du savoir
+
+68
+00:05:01,660 --> 00:05:05,220
+pour les publics avec lesquels les sociologues se sont associés.
+
+69
+00:05:05,580 --> 00:05:07,740
+Le savoir doit être communicatif.
+
+70
+00:05:07,740 --> 00:05:11,700
+L'orientation de la sociologie publique, eh bien, elle doit être définie
+
+71
+00:05:11,700 --> 00:05:14,700
+à travers le dialogue entre les sociologues et leurs publics
+
+72
+00:05:14,880 --> 00:05:18,300
+qui peuvent ne pas défendre, d'ailleurs, 
+des valeurs du même ordre.
+
+73
+00:05:18,300 --> 00:05:21,620
+En fait, il faut qu'il y ait une coordination 
+qui s'établit entre les deux.
+
+74
+00:05:21,620 --> 00:05:26,000
+En ce qui concerne le risque associé à ce type de sociologie,
+
+75
+00:05:26,340 --> 00:05:30,920
+en réalité, Burawoy croit en distinguer deux.
+
+76
+00:05:30,960 --> 00:05:32,700
+En gros, il y aurait quand-même deux risques.
+
+77
+00:05:32,700 --> 00:05:37,140
+Il évoque ici, en pathologie, la superficialité, 
+mais en l'occurrence, il y aurait deux risques
+
+78
+00:05:37,140 --> 00:05:39,320
+qui concerneraient la sociologie publique.
+
+79
+00:05:39,320 --> 00:05:43,760
+Et il les évoque dans cet extrait. Si la sociologie publique,
+
+80
+00:05:43,760 --> 00:05:48,860
+pas plus que l'expertise sociologique, 
+ne doit être prise en otage par des forces extérieures.
+
+81
+00:05:48,860 --> 00:05:51,480
+Dans sa quête de popularité, la sociologie publique est tentée
+
+82
+00:05:51,480 --> 00:05:55,580
+de se plier aux exigences de ses publics 
+et de les flatter et risque par-là
+
+83
+00:05:55,580 --> 00:05:58,580
+de compromettre les engagements critiques et professionnels.
+
+84
+00:05:58,800 --> 00:06:00,200
+Donc ça, c'est ce premier risque.
+
+85
+00:06:00,200 --> 00:06:04,680
+En gros, le risque existe aussi,
+bien sûr, que la sociologie publique
+
+86
+00:06:04,680 --> 00:06:05,840
+prenne de haut ses publics.
+
+87
+00:06:05,840 --> 00:06:12,660
+Ça, c'est le deuxième risque identifié par Burawoy
+au sujet de la sociologie publique.
+
+88
+00:06:12,720 --> 00:06:16,440
+Cet élitisme, autre forme de pathologie, 
+est sensible dans les textes de Charles Mills,
+
+89
+00:06:16,440 --> 00:06:19,620
+où il exprime son mépris pour la société de masse.
+
+90
+00:06:19,820 --> 00:06:23,480
+D'un côté, vous pourriez avoir un sociologue,
+
+91
+00:06:23,480 --> 00:06:30,380
+un ou une sociologue, en l'occurrence public, 
+qui pourrait manquer de distance, manquer de recul
+
+92
+00:06:30,380 --> 00:06:34,380
+par rapport au travail qu'il ou elle situerait auprès des publics.
+
+93
+00:06:34,680 --> 00:06:38,600
+C'est-à-dire qu’on s'approprie la problématique du public
+en tant que tel, on ne la questionne pas.
+
+94
+00:06:38,780 --> 00:06:42,560
+Et puis, on donne ce que le public cherche à entendre.
+
+95
+00:06:42,800 --> 00:06:44,760
+Donc ça, c'est une première pathologie.
+
+96
+00:06:44,760 --> 00:06:47,420
+La seconde, c'est :
+okay, on travaille avec les publics,
+
+97
+00:06:47,420 --> 00:06:50,720
+mais fondamentalement, il y a une forme d'asymétrie qui a lieu.
+
+98
+00:06:50,840 --> 00:06:52,920
+Et puis, on peut être amené à dire :
+
+99
+00:06:52,920 --> 00:06:58,940
+cette masse, ce public n'est qu'une masse
+et c'est très très difficile de la transformer.
+
+100
+00:06:58,940 --> 00:07:04,080
+Donc, il y a une forme d'élitisme où le sociologue ou la sociologue
+pourrait entraîner avec lui ou avec elle
+
+101
+00:07:04,080 --> 00:07:08,900
+l'ensemble de cette société de masse vers un chemin
+
+102
+00:07:08,900 --> 00:07:12,060
+qui serait beaucoup plus positif pour elle.
+
+103
+00:07:15,180 --> 00:07:19,400
+Pour Burawoy, la sociologie publique serait une expression
+
+104
+00:07:19,400 --> 00:07:24,660
+qui serait fondamentalement américaine 
+et elle ne concernerait qu'un
+
+105
+00:07:24,660 --> 00:07:29,240
+périmètre assez restreint de la sociologie aux Etats-Unis.
+
+106
+00:07:29,760 --> 00:07:33,080
+Dans le même temps, l'expérience à l'étranger de Burawoy,
+
+107
+00:07:33,080 --> 00:07:37,880
+dont on a parlé notamment dans la partie précédente, 
+lui aurait permis de voir que dans certains pays, 
+
+108
+00:07:37,880 --> 00:07:46,020
+à l'image de l'Afrique du Sud, la sociologie publique 
+serait, en fait par essence, la sociologie.
+
+109
+00:07:46,500 --> 00:07:50,460
+C'est-à-dire qu’il n'y aurait pas de distinction entre...
+
+110
+00:07:50,540 --> 00:07:54,080
+En fait, il n'y aurait qu'une sociologie publique 
+à l'intérieur d'un certain nombre de pays.
+
+111
+00:07:54,080 --> 00:07:57,800
+Donc, il évoque l'exemple de l'Afrique du Sud
+
+112
+00:07:57,800 --> 00:08:06,020
+et la question qui se pose dans des pays
+
+113
+00:08:06,020 --> 00:08:09,020
+comme l'Afrique du Sud quand Burawoy 
+leur parle de sociologie publique
+
+114
+00:08:09,140 --> 00:08:13,220
+et qu'il évoque l'implication du ou
+de la sociologue auprès de ses publics.
+
+115
+00:08:13,400 --> 00:08:16,400
+Eh bien, la question qu'il a en retour de la part
+
+116
+00:08:16,400 --> 00:08:18,980
+des représentants de la sociologie 
+d'un certain nombre de pays, c'est :
+
+117
+00:08:18,980 --> 00:08:24,260
+comment on peut imaginer que la sociologie puisse
+se passer de son lien avec les publics ?
+
+118
+00:08:24,260 --> 00:08:28,520
+Comment elle ne peut pas être orientée, 
+coconstruite fondamentalement avec les publics ?
+
+119
+00:08:28,520 --> 00:08:31,520
+Encore une fois, il prend l'exemple de l'Afrique du Sud.
+
+120
+00:08:31,640 --> 00:08:43,140
+Si je vous parle de ça, c’est que fondamentalement, 
+en insistant sur la place à laisser à cette sociologie publique,
+
+121
+00:08:43,160 --> 00:08:53,480
+Burawoy considère que l'on mettrait ainsi à distance, 
+non seulement la sociologie académique, mais aussi
+
+122
+00:08:53,480 --> 00:08:58,740
+la domination, entre guillemets, 
+du champ de la sociologie américaine.
+
+123
+00:08:59,120 --> 00:09:03,560
+C'est-à-dire qu’à partir du moment où on commence 
+à considérer que la sociologie publique
+
+124
+00:09:03,840 --> 00:09:07,620
+pourrait être le modèle vers lequel se diriger,
+
+125
+00:09:07,980 --> 00:09:10,480
+eh bien, on met à distance la sociologie académique et surtout,
+
+126
+00:09:10,480 --> 00:09:14,520
+on participe à provincialiser la sociologie américaine.
+
+127
+00:09:14,520 --> 00:09:15,920
+Pourquoi on la provincialise ?
+
+128
+00:09:15,920 --> 00:09:21,440
+Parce que la sociologie américaine s'est d'abord 
+constituée autour de la sociologie académique.
+
+129
+00:09:21,500 --> 00:09:27,380
+Donc, si on prend pour modèle la sociologie publique,
+
+130
+00:09:27,380 --> 00:09:30,300
+eh bien, fondamentalement, on change la perspective
+
+131
+00:09:30,300 --> 00:09:33,980
+et on évalue la sociologie américaine 
+à partir de la sociologie publique.
+
+132
+00:09:34,220 --> 00:09:37,440
+Et donc, elle est, dans ce cadre-là, la sociologie américaine,
+
+133
+00:09:37,620 --> 00:09:41,460
+une sociologie parmi les autres et ce n'est plus elle qui impose
+
+134
+00:09:41,760 --> 00:09:44,840
+les canons de ce qui est sociologique ou ce qui ne l'est pas.
+
+135
+00:09:45,280 --> 00:09:53,280
+Voilà aussi l'idée qu'il y a derrière l'idée qui traverse le travail ici, 
+au sujet de la sociologie,
+
+136
+00:09:53,280 --> 00:09:55,280
+quand il dit qu’il faut faire de la sociologie publique,
+
+137
+00:09:55,280 --> 00:10:00,600
+c'est non seulement retravailler le rôle politique de la sociologie,
+
+138
+00:10:00,600 --> 00:10:03,840
+mais c'est aussi dire ; comme cette sociologie publique,
+
+139
+00:10:03,840 --> 00:10:07,960
+c'est ce qui domine le champ de la sociologie 
+dans plein d'autres pays.
+
+140
+00:10:07,980 --> 00:10:14,960
+Si on considère que c'est la sociologie la plus légitime.
+
+141
+00:10:14,960 --> 00:10:18,740
+En fait, on va réévaluer les autres traditions sociologiques
+
+142
+00:10:18,740 --> 00:10:25,340
+par rapport à ces critères-là et on va relativiser 
+la place de la sociologie américaine dans l'ensemble.
+
+143
+00:10:25,560 --> 00:10:33,300
+L'idée, dans cette partie, dans ce bloc 4, 
+c'est d'avoir une espèce de montée,
+
+144
+00:10:33,300 --> 00:10:37,460
+une graduation, une montée graduelle vers...
+
+145
+00:10:37,920 --> 00:10:42,060
+On va partir, entre guillemets, de la sociologie publique classique,
+
+146
+00:10:42,060 --> 00:10:47,860
+notamment à partir des exemples liés 
+à la question raciale aux États-Unis.
+
+147
+00:10:47,880 --> 00:10:51,620
+Ça, ça va être la sociologie  publique classique, entre guillemets,
+
+148
+00:10:51,860 --> 00:10:57,760
+et puis on va terminer avec une sociologie publique organique 
+qui est plutôt liée à la figure de John Dewey.
+
+149
+00:10:57,760 --> 00:11:01,760
+On y reviendra, bien entendu et puis, on aura une deuxième partie
+
+150
+00:11:01,760 --> 00:11:03,260
+qui sera située un petit peu entre les deux,
+
+151
+00:11:03,260 --> 00:11:07,560
+entre la sociologie publique classique et 
+la sociologie publique organique 
+
+152
+00:11:07,560 --> 00:11:14,100
+où on reparlera, hélas, pour ceux qui ne les aiment pas 
+de Burawoy et de Erik Olin Wright.
+
+153
+00:11:14,420 --> 00:11:16,700
+Voilà pour de programme. 
+On se retrouve tout de suite pour la première partie.

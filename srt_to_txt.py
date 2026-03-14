@@ -28,6 +28,6 @@ def convert_folder_srt_to_txt(in_dir: Path, out_dir: Path):
 
 if __name__ == "__main__":
     convert_folder_srt_to_txt(
-        Path(r"C:\Users\basti\Downloads\A&T"),
-        Path(r"C:\Users\basti\Downloads\A&T\txt")
+        Path(r"C:\Users\basti\Downloads\Bloc 4"),
+        Path(r"C:\Users\basti\Downloads\Bloc 4\txt")
     )
