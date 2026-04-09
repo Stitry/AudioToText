@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PyPDF2; r = PyPDF2.PdfReader\\('c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf'\\); print\\(len\\(r.pages\\)\\)\")",
+      "Bash(python3 -c \"import PyPDF2; r = PyPDF2.PdfReader\\('c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf'\\); print\\(len\\(r.pages\\)\\)\")",
+      "Bash(py -c \"import PyPDF2; r = PyPDF2.PdfReader\\('c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf'\\); print\\(len\\(r.pages\\)\\)\")",
+      "Bash(python3 -m pip install PyPDF2)",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Read(//c/Users/basti/AppData/Local/Programs/**)",
+      "Read(//c/Users/basti/anaconda3/**)",
+      "Read(//c/Users/basti/miniconda3/**)",
+      "Read(//c/ProgramData/anaconda3/**)",
+      "Read(//c/ProgramData/miniconda3/**)",
+      "Bash(command -v conda)",
+      "Bash(node -e ':*)",
+      "Bash(where node:*)",
+      "Bash(where npx:*)",
+      "Bash(where powershell:*)",
+      "Bash(powershell.exe -Command ':*)",
+      "Bash(powershell.exe -Command \"winget install qpdf.qpdf --accept-source-agreements --accept-package-agreements\")",
+      "Bash(export PATH=\"$PATH:/c/Program Files/qpdf 12.3.2/bin\")",
+      "Bash(qpdf --split-pages=12-12 \"c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf\" \"c:/Users/basti/Documents/GitHub/AudioToText/motivations.pdf\")",
+      "Bash(ls -la \"c:/Users/basti/Documents/GitHub/AudioToText/motivations\"*.pdf)",
+      "Bash(qpdf \"c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf\" --pages . 12-12 -- \"c:/Users/basti/Documents/GitHub/AudioToText/motivations.pdf\" --replace-input)",
+      "Bash(qpdf \"c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf\" --pages . 12-12 -- \"c:/Users/basti/Documents/GitHub/AudioToText/motivations_new.pdf\")",
+      "Bash(qpdf \"c:/Users/basti/Documents/GitHub/AudioToText/RAEP_complet_CDG77.pdf\" --pages . 12-12 -- \"c:/Users/basti/Documents/GitHub/AudioToText/motivations.pdf\")",
+      "Bash(ls \"c:/Users/basti/Documents/GitHub/AudioToText/motivations\"*)"
+    ]
+  }
+}
